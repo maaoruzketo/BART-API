@@ -1,0 +1,7 @@
+{
+  "name": "ionicBart",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
